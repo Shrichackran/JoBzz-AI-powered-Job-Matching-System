@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {
+      "name": "Cron Trigger",
+      "type": "n8n-nodes-base.cron",
+      "parameters": {
+        "schedule": "every 30 minutes"
+      }
+    }
+  ]
+}
