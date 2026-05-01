@@ -1,0 +1,13 @@
+{
+  "name": "jobzz-automated-job-alert",
+  "version": "1.0.0",
+  "description": "AI-powered job alert system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
