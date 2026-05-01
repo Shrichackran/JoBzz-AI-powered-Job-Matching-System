@@ -118,15 +118,21 @@ jobzz-automated-job-alert/
 
 ### 🧠 Workflow Execution (n8n)
 
-![Workflow](./assets/workflow.png)
+![Workflow](./Outputs/1st.png)
+
+
+### 📩 Data Processing
+
+![Telegram](./Outputs/2nd.png)
+
 
 ### 📊 Processed Job Data (Google Sheets)
 
-![Sheets](./assets/sheets.png)
+![Sheets](./Outputs/3rd.png)
 
 ### 📩 Telegram Alert Output
 
-![Telegram](./assets/telegram.png)
+![Telegram](./Outputs/4th.png)
 
 ---
 
