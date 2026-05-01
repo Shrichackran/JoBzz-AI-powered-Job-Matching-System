@@ -51,7 +51,7 @@ JoBzz is an **AI-driven job intelligence system** that automates job discovery, 
 
 ## 🏗️ System Architecture
 
-![Architecture](./assets/architecture.png)
+![Architecture](./Outputs/5th.png)
 
 ```text
 Job APIs / Scrapers
